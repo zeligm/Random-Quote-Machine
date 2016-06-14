@@ -2,15 +2,8 @@ body {
 	background-color: #00796B;
 }
 
-h3, span, p, #link {
+h3, p, #link {
 	color: #FFFFFF;
-}
-
-.inner {
-  position: absolute;
-  width: 70%;
-  top: 20%;
-  margin-left: 15%;  
 }
 
 #link:hover {
