@@ -8,7 +8,7 @@ var quoteRandomizer = {
             },
             {
               quote: "It doesn't take talent to practice.",
-            },
+            },//comment here
             {
               quote: "Don’t watch the clock, do what it does. Keep going.",
             },
